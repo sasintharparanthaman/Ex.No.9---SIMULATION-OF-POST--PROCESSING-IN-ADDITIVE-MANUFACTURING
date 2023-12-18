@@ -34,17 +34,21 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![Alt text](<Screenshot 2023-12-18 153219.png>)
-![Alt text](<Screenshot 2023-12-18 153230.png>)
+![Screenshot 2023-12-18 153219](https://github.com/sasintharparanthaman/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145743219/f41eaf55-ad1c-44ae-af67-e50ce6528a63)
+![Screenshot 2023-12-18 153230](https://github.com/sasintharparanthaman/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145743219/931618a9-b651-457a-9e57-d8842a99803a)
+
 ## UV Curing of 3D printed part
-![Alt text](<Screenshot 2023-12-18 153247.png>)
-![Alt text](<Screenshot 2023-12-18 153258.png>)
+![Screenshot 2023-12-18 153247](https://github.com/sasintharparanthaman/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145743219/ce0f4ccb-6ae6-4cd1-8fee-f3f10fb172fe)
+![Screenshot 2023-12-18 153258](https://github.com/sasintharparanthaman/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145743219/4a696188-dabd-4d24-a8b5-b8758f7d4834)
+
 ## Heat Treatment of 3D printed part
-![Alt text](<Screenshot 2023-12-18 153310.png>)
-![Alt text](<Screenshot 2023-12-18 153319.png>)
+![Screenshot 2023-12-18 153310](https://github.com/sasintharparanthaman/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145743219/021d3192-4572-4015-ba59-cc51bbabff9b)
+![Screenshot 2023-12-18 153319](https://github.com/sasintharparanthaman/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145743219/a81c29ba-4a9e-44a9-82b3-8f21d47503a3)
+
 ## Output:
-![Alt text](<Screenshot 2023-12-18 153339.png>)
-![Alt text](<Screenshot 2023-12-18 153348.png>)
+![Screenshot 2023-12-18 153339](https://github.com/sasintharparanthaman/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145743219/e625a4aa-282b-4f8a-b874-cfb1729a66e9)
+![Screenshot 2023-12-18 153348](https://github.com/sasintharparanthaman/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145743219/5833fbf0-acb0-4e6a-95cb-673b688739ce)
+
 
 ### Name:P.Sasinthar
 ### Register Number:23012532
